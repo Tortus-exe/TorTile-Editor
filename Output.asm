@@ -1,0 +1,1 @@
+Output_generatedMetasprite:DW    sprite_0sprite_0:DB   $0
